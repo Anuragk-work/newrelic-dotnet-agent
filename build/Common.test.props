@@ -1,8 +1,0 @@
-<Project>
-
-  <PropertyGroup>
-    <SignAssembly>false</SignAssembly>
-    <AssemblyOriginatorKeyFile>$(MSBuildThisFileDirectory)keys\NewRelicStrongNameKey.snk</AssemblyOriginatorKeyFile>
-  </PropertyGroup>
-
-</Project>

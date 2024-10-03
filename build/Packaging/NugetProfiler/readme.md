@@ -1,1 +1,0 @@
-This package is used to simplify dependencies in the New Relic .NET Agent repository. It is not necessary for any user to download or install.
