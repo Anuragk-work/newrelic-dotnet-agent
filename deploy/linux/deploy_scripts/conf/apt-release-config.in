@@ -1,8 +1,0 @@
-APT::FTPArchive::Release {
-  Origin "New Relic";
-  Label "New Relic";
-  Suite "@TARGETREPO@";
-  Architectures "i386 amd64 arm64";
-  Components "non-free";
-}
-
